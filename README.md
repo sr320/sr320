@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm Steven — I work at the **University of Washington**, where I study shellfish,
 genomes, and the places those two things collide. Nearly everything I do ends up
 in a repo somewhere: code, data, half-finished analyses, and the occasional idea
