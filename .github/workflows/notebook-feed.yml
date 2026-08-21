@@ -1,0 +1,46 @@
+name: notebook feed
+
+on:
+  schedule:
+    # 15:20 UTC = 08:20 PDT / 07:20 PST. Offset from the water banner so the
+    # two jobs do not race to push to main.
+    - cron: "20 15 * * *"
+  workflow_dispatch:
+  # Rebuild when the generator changes. Paths are filtered so the bot's own
+  # README commits do not retrigger the workflow.
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/notebook-feed.yml"
+      - "scripts/update_notebook.py"
+
+concurrency:
+  group: notebook-feed
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh notebook block
+        run: python scripts/update_notebook.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "notebook-feed[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet && echo "no change" && exit 0
+          git commit -m "notebook: refresh latest posts"
+          # The water banner job may have pushed since checkout; rebase onto it
+          # rather than failing the run on a stale ref.
+          git pull --rebase --autostash origin main
+          git push
