@@ -5,6 +5,13 @@ on:
     # 15:00 UTC = 08:00 PDT / 07:00 PST
     - cron: "0 15 * * *"
   workflow_dispatch:
+  # Rebuild when the generator changes. Paths are filtered so the bot's own
+  # banner commits do not retrigger the workflow.
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/water-banner.yml"
+      - "scripts/update_banner.py"
 
 concurrency:
   group: water-banner
@@ -27,6 +34,10 @@ jobs:
 
       - name: Commit if changed
         run: |
+          if [ ! -f assets/water-banner.svg ]; then
+            echo "no banner was produced, nothing to commit"
+            exit 0
+          fi
           git config user.name "water-banner[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/water-banner.svg README.md

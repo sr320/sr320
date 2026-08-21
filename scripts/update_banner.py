@@ -24,8 +24,9 @@ from datetime import datetime, timedelta, timezone
 API = "https://api.tidesandcurrents.noaa.gov/api/prod/datagetter"
 
 # Nearest CO-OPS gauges to Manchester, WA (47.551 N, 122.542 W), in order.
+# Seattle (9447130) is closer but does not carry the water_temperature product,
+# so it is omitted rather than failing on every run.
 STATIONS = [
-    ("9447130", "Seattle, WA"),
     ("9446484", "Tacoma, WA"),
     ("9444900", "Port Townsend, WA"),
 ]
