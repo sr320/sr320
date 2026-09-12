@@ -20,6 +20,10 @@ finally behaves, or a bag of oysters that didn't — gets written up here.
 
 <!-- NOTEBOOK:START -->
 
+**[The Pathogen Has a Plan, the Hosts Do Not](https://sr320.github.io/tumbling-oysters/posts/87-seastar-susceptibility-genomics/)**  
+Now that *Vibrio pectenicida* FHCF-3 is the confirmed agent of sea star wasting disease, an obvious question follows: why do some sea stars die and…  
+<sub>Sep 11, 2026 · Genomics</sub>
+
 **[62 CpGs Separate Quihua From Rio Pudeto](https://sr320.github.io/tumbling-oysters/posts/86-och-dml-sites/)**  
 Having settled which *Ostrea chilensis* assembly to point at, the next question is whether the whole-genome bisulfite data actually says anything…  
 <sub>Aug 21, 2026 · Epigenetics · Genomics</sub>
@@ -27,10 +31,6 @@ Having settled which *Ostrea chilensis* assembly to point at, the next question 
 **[Three Ostrea chilensis Assemblies Walk Into a Dot Plot](https://sr320.github.io/tumbling-oysters/posts/85-och-genome-compare/)**  
 There are three *Ostrea chilensis* genome files floating around this project: the two haplotype assemblies from the annotation contract (Och_HapA…  
 <sub>Aug 20, 2026 · Genomics · Computing</sub>
-
-**[What Genes Reveal About Sea Star Wasting Disease](https://sr320.github.io/tumbling-oysters/posts/85-seastar-wasting-go/)**  
-Sea star wasting disease has wiped out huge numbers of sea stars along the Pacific coast over the last decade. The sunflower star was hit so hard it…  
-<sub>Jul 10, 2026 · Transcriptomics · Genomics</sub>
 
 <sub>Latest from [Tumbling Oysters](https://sr320.github.io/tumbling-oysters/) · refreshed daily by GitHub Actions</sub>
 <!-- NOTEBOOK:END -->
