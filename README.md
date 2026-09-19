@@ -20,17 +20,17 @@ finally behaves, or a bag of oysters that didn't — gets written up here.
 
 <!-- NOTEBOOK:START -->
 
-**[The Pathogen Has a Plan, the Hosts Do Not](https://sr320.github.io/tumbling-oysters/posts/87-seastar-susceptibility-genomics/)**  
-Now that *Vibrio pectenicida* FHCF-3 is the confirmed agent of sea star wasting disease, an obvious question follows: why do some sea stars die and…  
-<sub>Sep 11, 2026 · Genomics</sub>
+**[Does a 4-hour resazurin trace forecast field performance? Mostly no](https://sr320.github.io/tumbling-oysters/posts/90-resazurin-index-catalogue/)**  
+Zero of the 284 distinct indices cleared family-wise *p* < 0.05 for survival, growth, condition index, tissue weight, cup, yield, or the performance…  
+<sub>Sep 19, 2026 · Aquaculture · Computing</sub>
 
-**[62 CpGs Separate Quihua From Rio Pudeto](https://sr320.github.io/tumbling-oysters/posts/86-och-dml-sites/)**  
-Having settled which *Ostrea chilensis* assembly to point at, the next question is whether the whole-genome bisulfite data actually says anything…  
-<sub>Aug 21, 2026 · Epigenetics · Genomics</sub>
+**[No Genotype-Environment Association in Olympia Oyster lcWGS](https://sr320.github.io/tumbling-oysters/posts/88-oly-lcwgs-rda/)**  
+We tested whether allele frequencies across 15 Olympia oyster (*Ostrea lurida*) collections track local environmental conditions, using redundancy…  
+<sub>Sep 19, 2026 · Genomics · Computing</sub>
 
-**[Three Ostrea chilensis Assemblies Walk Into a Dot Plot](https://sr320.github.io/tumbling-oysters/posts/85-och-genome-compare/)**  
-There are three *Ostrea chilensis* genome files floating around this project: the two haplotype assemblies from the annotation contract (Och_HapA…  
-<sub>Aug 20, 2026 · Genomics · Computing</sub>
+**[Population structure in Olympia oyster low-coverage WGS, and what a chromosome-scale assembly changes about it](https://sr320.github.io/tumbling-oysters/posts/89-oly-lcwgs-population-structure/)**  
+Neutral population structure in this dataset is real, strong and easy to describe: two outer-coast collections (Coos Bay, Oregon and the site…  
+<sub>Sep 17, 2026 · Genomics · Computing</sub>
 
 <sub>Latest from [Tumbling Oysters](https://sr320.github.io/tumbling-oysters/) · refreshed daily by GitHub Actions</sub>
 <!-- NOTEBOOK:END -->
