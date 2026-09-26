@@ -20,6 +20,10 @@ finally behaves, or a bag of oysters that didn't — gets written up here.
 
 <!-- NOTEBOOK:START -->
 
+**[Oil vs. Control Ranks 9 of 10 Label Splits](https://sr320.github.io/tumbling-oysters/posts/91-gulf-oil-methylation/)**  
+SRP139854 (BioProject PRJNA449904) is six eastern oyster gill libraries from 2015: three unexposed (NB3, NB6, NB11) and three exposed to 25,000 ppm…  
+<sub>Sep 26, 2026 · Epigenetics · Genomics</sub>
+
 **[Does a 4-hour resazurin trace forecast field performance? Mostly no](https://sr320.github.io/tumbling-oysters/posts/90-resazurin-index-catalogue/)**  
 Zero of the 284 distinct indices cleared family-wise *p* < 0.05 for survival, growth, condition index, tissue weight, cup, yield, or the performance…  
 <sub>Sep 19, 2026 · Aquaculture · Computing</sub>
@@ -27,10 +31,6 @@ Zero of the 284 distinct indices cleared family-wise *p* < 0.05 for survival, gr
 **[No Genotype-Environment Association in Olympia Oyster lcWGS](https://sr320.github.io/tumbling-oysters/posts/88-oly-lcwgs-rda/)**  
 We tested whether allele frequencies across 15 Olympia oyster (*Ostrea lurida*) collections track local environmental conditions, using redundancy…  
 <sub>Sep 19, 2026 · Genomics · Computing</sub>
-
-**[Population structure in Olympia oyster low-coverage WGS, and what a chromosome-scale assembly changes about it](https://sr320.github.io/tumbling-oysters/posts/89-oly-lcwgs-population-structure/)**  
-Neutral population structure in this dataset is real, strong and easy to describe: two outer-coast collections (Coos Bay, Oregon and the site…  
-<sub>Sep 17, 2026 · Genomics · Computing</sub>
 
 <sub>Latest from [Tumbling Oysters](https://sr320.github.io/tumbling-oysters/) · refreshed daily by GitHub Actions</sub>
 <!-- NOTEBOOK:END -->
