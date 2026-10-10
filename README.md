@@ -20,6 +20,10 @@ finally behaves, or a bag of oysters that didn't — gets written up here.
 
 <!-- NOTEBOOK:START -->
 
+**[Chilean Flat Oyster WGBS: Three Populations, Nine Libraries](https://sr320.github.io/tumbling-oysters/posts/94-ochil-wgbs-methylation/)**  
+Whole genome bisulfite sequencing (WGBS) for *Ostrea chilensis* came in on October 8: 15 paired-end files (2×151, NovaSeq X, one lane), named as 5…  
+<sub>Oct 10, 2026 · Epigenetics · Genomics</sub>
+
 **[Ploidy and pH Don’t Move Methylation, Genotype Does](https://sr320.github.io/tumbling-oysters/posts/93-haws-methylation-null/)**  
 Haws diploid and triploid *C. gigas*, high vs. low pH, 6 oysters per ploidy × pH cell (24 total, WGBS). Earlier passes (04-methylKit, 04-DSS)…  
 <sub>Oct 2, 2026 · Epigenetics · Computing</sub>
@@ -27,10 +31,6 @@ Haws diploid and triploid *C. gigas*, high vs. low pH, 6 oysters per ploidy × p
 **[Olympia Oyster lcWGS on the New Chromosome Assembly](https://sr320.github.io/tumbling-oysters/posts/92-oly-lcwgs-structure/)**  
 The oly-lc-WGS repo holds low-coverage whole genome sequencing for 112 Olympia oysters (*Ostrea lurida*) from 15 sites: 13 around Puget Sound plus…  
 <sub>Sep 28, 2026 · Genomics · Computing</sub>
-
-**[Oil vs. Control Ranks 9 of 10 Label Splits](https://sr320.github.io/tumbling-oysters/posts/91-gulf-oil-methylation/)**  
-SRP139854 (BioProject PRJNA449904) is six eastern oyster gill libraries from 2015: three unexposed (NB3, NB6, NB11) and three exposed to 25,000 ppm…  
-<sub>Sep 26, 2026 · Epigenetics · Genomics</sub>
 
 <sub>Latest from [Tumbling Oysters](https://sr320.github.io/tumbling-oysters/) · refreshed daily by GitHub Actions</sub>
 <!-- NOTEBOOK:END -->
