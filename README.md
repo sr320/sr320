@@ -20,8 +20,8 @@ finally behaves, or a bag of oysters that didn't — gets written up here.
 
 <!-- NOTEBOOK:START -->
 
-**[Chilean Flat Oyster WGBS: Three Populations, Nine Libraries](https://sr320.github.io/tumbling-oysters/posts/94-ochil-wgbs-methylation/)**  
-Whole genome bisulfite sequencing (WGBS) for *Ostrea chilensis* came in on October 8: 15 paired-end files (2×151, NovaSeq X, one lane), named as 5…  
+**[Chilean vs Olympia Oyster Methylation, and What Sits Inside GN020540](https://sr320.github.io/tumbling-oysters/posts/95-ostrea-methylation-compare/)**  
+The *Ostrea chilensis* WGBS write-up is in post 94: 15 files that turned out to be 9 libraries, the Quilhua vs Rio Pudeto comparison, and GN020540 as…  
 <sub>Oct 10, 2026 · Epigenetics · Genomics</sub>
 
 **[Ploidy and pH Don’t Move Methylation, Genotype Does](https://sr320.github.io/tumbling-oysters/posts/93-haws-methylation-null/)**  
