@@ -20,6 +20,10 @@ finally behaves, or a bag of oysters that didn't — gets written up here.
 
 <!-- NOTEBOOK:START -->
 
+**[Lean vs Lean](https://sr320.github.io/tumbling-oysters/posts/96-trout-lean-baseline/)**  
+Rick asked whether we had compared our ecotype genomes to the published lean reference genome, and specifically lean to lean. We had all the pieces…  
+<sub>Oct 16, 2026 · Genomics · Computing</sub>
+
 **[Chilean vs Olympia Oyster Methylation, and What Sits Inside GN020540](https://sr320.github.io/tumbling-oysters/posts/95-ostrea-methylation-compare/)**  
 The *Ostrea chilensis* WGBS write-up is in post 94: 15 files that turned out to be 9 libraries, the Quilhua vs Rio Pudeto comparison, and GN020540 as…  
 <sub>Oct 10, 2026 · Epigenetics · Genomics</sub>
@@ -27,10 +31,6 @@ The *Ostrea chilensis* WGBS write-up is in post 94: 15 files that turned out to 
 **[Ploidy and pH Don’t Move Methylation, Genotype Does](https://sr320.github.io/tumbling-oysters/posts/93-haws-methylation-null/)**  
 Haws diploid and triploid *C. gigas*, high vs. low pH, 6 oysters per ploidy × pH cell (24 total, WGBS). Earlier passes (04-methylKit, 04-DSS)…  
 <sub>Oct 2, 2026 · Epigenetics · Computing</sub>
-
-**[Olympia Oyster lcWGS on the New Chromosome Assembly](https://sr320.github.io/tumbling-oysters/posts/92-oly-lcwgs-structure/)**  
-The oly-lc-WGS repo holds low-coverage whole genome sequencing for 112 Olympia oysters (*Ostrea lurida*) from 15 sites: 13 around Puget Sound plus…  
-<sub>Sep 28, 2026 · Genomics · Computing</sub>
 
 <sub>Latest from [Tumbling Oysters](https://sr320.github.io/tumbling-oysters/) · refreshed daily by GitHub Actions</sub>
 <!-- NOTEBOOK:END -->
