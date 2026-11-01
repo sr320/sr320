@@ -6,7 +6,7 @@ that didn't survive contact with the data.
 <!-- WATER:START -->
 ![Water temperature near Manchester, Puget Sound](assets/water-banner.svg)
 
-`12.6 °C` in the water off Manchester, Puget Sound, Oct 31 12:00 local, via NOAA CO-OPS Tacoma, WA.
+`12.6 °C` in the water off Manchester, Puget Sound, Nov 1 11:12 local, via NOAA CO-OPS Tacoma, WA.
 <!-- WATER:END -->
 
 That number is real, and it's a decent indicator of where I am. If I've gone
