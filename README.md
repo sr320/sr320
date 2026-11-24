@@ -20,17 +20,17 @@ finally behaves, or a bag of oysters that didn't — gets written up here.
 
 <!-- NOTEBOOK:START -->
 
+**[What Shapes Coral Methylation, Expression, and Physiology Over a Year](https://sr320.github.io/tumbling-oysters/posts/97-coral-multiomics/)**  
+The E5 timeseries project sampled three corals four times over a year on Moorea:  
+<sub>Nov 24, 2026 · Epigenetics · Transcriptomics</sub>
+
+**[Tensor Decomposition and Elastic Net on the E5 Coral Timeseries](https://sr320.github.io/tumbling-oysters/posts/98-stdm-mosaic/)**  
+workflow-stdm is the clean, reproducible version of the workflow from the 2026 eScience talk:  
+<sub>Nov 24, 2026 · Epigenetics · Transcriptomics</sub>
+
 **[Lean vs Lean](https://sr320.github.io/tumbling-oysters/posts/96-trout-lean-baseline/)**  
 Rick asked whether we had compared our ecotype genomes to the published lean reference genome, and specifically lean to lean. We had all the pieces…  
 <sub>Oct 16, 2026 · Genomics · Computing</sub>
-
-**[Chilean vs Olympia Oyster Methylation, and What Sits Inside GN020540](https://sr320.github.io/tumbling-oysters/posts/95-ostrea-methylation-compare/)**  
-The *Ostrea chilensis* WGBS write-up is in post 94: 15 files that turned out to be 9 libraries, the Quilhua vs Rio Pudeto comparison, and GN020540 as…  
-<sub>Oct 10, 2026 · Epigenetics · Genomics</sub>
-
-**[Ploidy and pH Don’t Move Methylation, Genotype Does](https://sr320.github.io/tumbling-oysters/posts/93-haws-methylation-null/)**  
-Haws diploid and triploid *C. gigas*, high vs. low pH, 6 oysters per ploidy × pH cell (24 total, WGBS). Earlier passes (04-methylKit, 04-DSS)…  
-<sub>Oct 2, 2026 · Epigenetics · Computing</sub>
 
 <sub>Latest from [Tumbling Oysters](https://sr320.github.io/tumbling-oysters/) · refreshed daily by GitHub Actions</sub>
 <!-- NOTEBOOK:END -->
