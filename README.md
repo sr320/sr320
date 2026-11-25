@@ -20,6 +20,10 @@ finally behaves, or a bag of oysters that didn't — gets written up here.
 
 <!-- NOTEBOOK:START -->
 
+**[Co-folding the Sea Louse Secretome Against the Salmon Skin Interface](https://sr320.github.io/tumbling-oysters/posts/99-caligus-salmon-ppi/)**  
+An end-to-end attempt to predict which *Caligus rogercresseyi* secreted proteins contact which *Salmo salar* proteins at the skin, mucus and blood…  
+<sub>Nov 25, 2026 · Genomics · Computing</sub>
+
 **[What Shapes Coral Methylation, Expression, and Physiology Over a Year](https://sr320.github.io/tumbling-oysters/posts/97-coral-multiomics/)**  
 The E5 timeseries project sampled three corals four times over a year on Moorea:  
 <sub>Nov 24, 2026 · Epigenetics · Transcriptomics</sub>
@@ -27,10 +31,6 @@ The E5 timeseries project sampled three corals four times over a year on Moorea:
 **[Tensor Decomposition and Elastic Net on the E5 Coral Timeseries](https://sr320.github.io/tumbling-oysters/posts/98-stdm-mosaic/)**  
 workflow-stdm is the clean, reproducible version of the workflow from the 2026 eScience talk:  
 <sub>Nov 24, 2026 · Epigenetics · Transcriptomics</sub>
-
-**[Lean vs Lean](https://sr320.github.io/tumbling-oysters/posts/96-trout-lean-baseline/)**  
-Rick asked whether we had compared our ecotype genomes to the published lean reference genome, and specifically lean to lean. We had all the pieces…  
-<sub>Oct 16, 2026 · Genomics · Computing</sub>
 
 <sub>Latest from [Tumbling Oysters](https://sr320.github.io/tumbling-oysters/) · refreshed daily by GitHub Actions</sub>
 <!-- NOTEBOOK:END -->
